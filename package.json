@@ -1,0 +1,24 @@
+{
+  "name": "practice-writing-unittests-consuellatartt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cart.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctartt12/practice-writing-unitTests-ConsuellaTartt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ctartt12/practice-writing-unitTests-ConsuellaTartt/issues"
+  },
+  "homepage": "https://github.com/ctartt12/practice-writing-unitTests-ConsuellaTartt#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
